@@ -1,5 +1,3 @@
-# .github
-
 ### Why are we here?
 
 This is a place to play around, practice, and turn any idea into code.
